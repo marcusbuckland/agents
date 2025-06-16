@@ -175,6 +175,9 @@ cython_debug/
 
 .DS_Store
 
+# Ignore all files in 1_foundations/me directory
+1_foundations/me/*
+
 # Ignore Crew engineering team output
 3_crew/engineering_team/output/
 
